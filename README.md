@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @SACUL-6
-- 👀 I’m interested in learning JavaScript
-- 🌱 I’m currently learning JavaScript
 
 
 <img src="https://komarev.com/ghpvc/?username=SACUL-6&color=blueviolet&style=for-the-badge" alt="SACUL_6" />
